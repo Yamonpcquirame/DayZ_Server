@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+		<message>
+        <repeat>15</repeat>
+        <delay>60</delay>
+        <text>Besoin d'un admin ? RDV sur Discord ! https://discord.gg/3DSquunFVV</text>
+	</message>
+	<message>
+        <repeat>15</repeat>
+        <delay>60</delay>
+        <text>Need an admin ? Just join our Discord ! https://discord.gg/3DSquunFVV</text>
+	</message>
+	<message>
+        <repeat>20</repeat>
+        <delay>100</delay>
+        <text>Mardi soir c'est event PVP !</text>
+    </message>
+	<message>
+        <repeat>20</repeat>
+        <delay>100</delay>
+        <text>PVP special event on Tuesday night </text>
+    </message>
+		<message>
+        <repeat>30</repeat>
+        <delay>2</delay>
+        <text>Serveur PVP / PVE, tuez qui vous voulez !</text>
+    </message>
+	<message>
+        <repeat>30</repeat>
+        <delay>2</delay>
+        <text>No rules server ! Kill who you want (PVP / PVE) !</text>
+    </message>
+    <message>
+        <repeat>60</repeat>
+        <delay>200</delay>
+        <text>Ahhhhhh l'air de la campagne... Les oiseaux qui chantent... Et les coups de batte de baseball dans la gueule :3 </text>
+    </message>
+     <message>
+        <repeat>70</repeat>
+        <delay>400</delay>
+        <text>Arthur ! Couillaiiiiiiiiiiire !</text>
+    </message>
+        <message>
+        <repeat>80</repeat>
+        <delay>600</delay>
+        <text>C'est beau mais c'est loin :3</text>
+    </message>
+        <message>
+        <repeat>90</repeat>
+        <delay>800</delay>
+        <text>Tu te sens seul ? Va en ville et tire un coup en l air : tu vas te faire pleins de nouveaux copains :3</text>
+    </message>
+        <message>
+        <repeat>100</repeat>
+        <delay>1000</delay>
+        <text>Tu feras gaffe : y a un peu plus de zombies que la normale :3 </text>
+    </message>
+	<message>
+		<delay>0</delay>
+		<repeat>0</repeat>
+			 countdown reaches zero in 10 hours --> 
+		<deadline>360</deadline>
+		<onConnect>0</onConnect>
+		<shutdown>1</shutdown>
+		<text>Le serveur va redemarrer dans #tmin minutes :)</text>
+	</message>
+    
+    <message>
+        <delay>1</delay>
+        <onconnect>1</onconnect>
+        <text>Bienvenue sur le serveur de La Fine Equipe  :D </text>
+    </message>
+    <message>
+        <delay>2</delay>
+        <onconnect>1</onconnect>
+        <text>Rejoins nous sur Discord :) https://discord.gg/3DSquunFVV</text>
+    </message>
+	<message>
+        <delay>3</delay>
+        <onconnect>1</onconnect>
+        <text>Serveur PVP / PVE, tuez qui vous voulez !</text>
+    </message>
+	<message>
+        <delay>4</delay>
+        <onconnect>1</onconnect>
+        <text>No rules server ! Kill who you want (PVP / PVE) !</text>
+    </message>
+    
+</messages>
+    

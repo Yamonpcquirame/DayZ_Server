@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+<!-- annonce reboot serveur -->  
+	<message>
+		<delay>0</delay>
+		<repeat>0</repeat>
+			 countdown reaches zero in 10 hours --> 
+		<deadline>360</deadline>
+		<onConnect>0</onConnect>
+		<shutdown>1</shutdown>
+		<text>Le serveur va redemarrer dans #tmin minutes :)</text>
+	</message>
+<!-- à la connexion -->    
+    <message>
+        <delay>1</delay>
+        <onconnect>1</onconnect>
+        <text>Bienvenue sur le serveur de La Fine Equipe / Welcome in the Fine Equipe server !</text>
+    </message>
+	<message>
+        <delay>2</delay>
+        <onconnect>1</onconnect>
+        <text>Serveur en mode PVP / PVP Mode on</text>
+    </message>
+	<message>
+        <delay>2</delay>
+        <onconnect>1</onconnect>
+        <text>Chaque spawn se fera full stuff et uniquement sur la zone de PVP / Each spawn will be full and only on PVP area</text>
+    </message>
+    <message>
+        <delay>4</delay>
+        <onconnect>1</onconnect>
+        <text>Rejoins nous sur Discord :) https://discord.gg/3DSquunFVV</text>
+    </message>
+<!-- en jeu --> 
+    <message>
+        <repeat>10</repeat>
+        <delay>60</delay>
+        <text>Serveur en mode PVP / PVP Mode on</text>
+	</message>   
+    <message>
+        <repeat>15</repeat>
+        <delay>60</delay>
+        <text>Chaque spawn se fera full stuff et uniquement sur la zone de PVP / Each spawn will be full and only on PVP area</text>
+	</message>
+	<message>
+        <repeat>30</repeat>
+        <delay>120</delay>
+        <text>Si tu ne veux pas faire de PVP, tu peux sortir de la zone en passant sous un des murs et aller vivre ta vie ailleurs</text>
+	</message>
+	<message>
+        <repeat>30</repeat>
+        <delay>120</delay>
+        <text>If you don't want to do PVP, you can leave the area by going under one of the walls and go and live your life elsewhere</text>
+	</message>	
+		<message>
+        <repeat>20</repeat>
+        <delay>30</delay>
+        <text>Besoin d'un admin ? RDV sur Discord !</text>
+	</message>
+	<message>
+        <repeat>20</repeat>
+        <delay>30</delay>
+        <text>Need an admin ? Just join our Discord !</text>
+	</message>
+</messages>
+    
